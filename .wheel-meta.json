@@ -1,0 +1,22 @@
+{
+  "wheel_id": 924,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-113",
+  "project": "retaining-wall-installers-brisbane-faq-509aef2dfb49de4b12df634f",
+  "parent_t1_ref": "qldretainingandfencing-156",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installers brisbane faq",
+  "intended_url": "http://retaining-wall-installers-brisbane-faq-509aef2dfb49de4b12df634f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "97b48df3f03d0757",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/qldretainingandfencing-156/",
+      "anchor": "this retaining wall installers brisbane guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
